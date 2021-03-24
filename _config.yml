@@ -19,8 +19,8 @@ locale                   : "ko-KR"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "하루의 QA 노트"
-description              : "QA 엔지니어 1년차의 좌충우돌 성장 블로그"
+name                     : "Haru's QA note"
+description              : "QA blog"
 url                      :  "https://QAcoding.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "하루의 QA 노트"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "QA 엔지니어 1년차의 좌충우돌 성장 블로그"
+  location         : "Tokyo, Japan"
   email            :
   links:
     - label: "Email"
