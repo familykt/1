@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" #"default"  "air", "aqua", "contrast", , "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
+title                    : "하루의 QA 노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Haru's QA note"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "하루의 QA 노트"
+  name             : "John (Haru) "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "QA 엔지니어 1년차의 좌충우돌 성장 블로그"
   location         : "Tokyo, Japan"
