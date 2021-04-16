@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" #"default"  "air", "aqua", "contrast", , "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "하루의 QA 노트"
+title                    : "하루의 QA 노트1"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "test subtitle"
 name                     : "Haru's QA note"
 description              : "QA blog"
 url                      :  "https://QAcoding.github.io"
