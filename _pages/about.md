@@ -4,7 +4,7 @@ header:
   show_overlay_excerpt: true
   excerpt : "test"
   overlay_image: /assets/images/aboutme_wave.jpg
-  overlay_filter: 0.3
+  overlay_filter: 0.1
 permalink: /about/
 ---
 

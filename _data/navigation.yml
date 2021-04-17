@@ -3,11 +3,11 @@ main:
   - title: "home"
     url: /
   - title: "about me"
-    url: /about
+    url: /about/
   - title: "QA skill"
-    url: https://familykt.github.io/
+    url: /qa/
   - title: "daily"
-    url: https://familykt.github.io/
+    url: /daily/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
